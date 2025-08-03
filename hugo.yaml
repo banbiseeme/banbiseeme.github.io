@@ -1,6 +1,6 @@
 baseurl: https://banbiseeme.github.io/
 languageCode: en-us
-theme: hugo-theme-stack
+theme: "hugo-theme-stack"
 title: Banbi 的小站
 copyright: © 2024 Banbi
 
